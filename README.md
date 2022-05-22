@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shahin Mahmud
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I’m a data science enthusiast
+- 🌱 I’m currently doing my master's at uOttawa
 - 📫 How to reach me https://www.linkedin.com/in/shahin-mahmud/
 
 <!---
