@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shahin Mahmud
-- 👀 I’m a data science enthusiast
+- 👀 I’m an AI and data science enthusiast
 - 🌱 I’m currently doing my master's at uOttawa
 - 📫 How to reach me https://www.linkedin.com/in/shahin-mahmud/
 
